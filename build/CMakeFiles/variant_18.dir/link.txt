@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/variant_18.dir/link.d CMakeFiles/variant_18.dir/examples/variant_18.cpp.o -o variant_18  -Wl,-rpath,"\$ORIGIN:/home/pepi0/projects/my_cpp_project/arraylib/build" libarraylib.so
